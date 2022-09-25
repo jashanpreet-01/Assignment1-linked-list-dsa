@@ -1,7 +1,7 @@
                             /* ASSIGNMENT 1(linked list)
                                 Name: Jashanpreet Singh
                                  SID: 21104121
-                                 Branch: Electrical */
+                                 Branch: Electrical Engineering */
 
 
 #include <iostream>                   
@@ -111,4 +111,10 @@ Ans.We can link the family members doubly-linked list  by sorting the doubly lin
 to age in decending order.By doing so we will get a doubly linked list in which older generation 
 people will be close to head in double linked list and new generation people will be close to tail
  in doubly linked list.
-*/
+
+
+
+Name: Jashanpreet singh
+SID: 21104121*/
+
+
